@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<modules>
+  <module>
+    <modulename>Algorithms and Data Structures</modulename>
+    <modulecode>3SFE504</modulecode>
+    <lectureslot>0</lectureslot>
+    <tutorialslot>1</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>A module detailing how file systems work and what an algorithm is.</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>3D Graphics I</modulename>
+    <modulecode>3SFE508</modulecode>
+    <lectureslot>2</lectureslot>
+    <tutorialslot>3</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>1 of 2 modules for gaming students</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>Event-Driven Programming</modulename>
+    <modulecode>3SFE513</modulecode>
+    <lectureslot>4</lectureslot>
+    <tutorialslot>5</tutorialslot>
+    <capacity>9</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>How an event can trigger different parts of a program to run</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>Object-Oriented Design</modulename>
+    <modulecode>3SFE514</modulecode>
+    <lectureslot>6</lectureslot>
+    <tutorialslot>7</tutorialslot>
+    <capacity>8</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Designing programs centered around objects</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>Requirements Engineering</modulename>
+    <modulecode>3SFE516</modulecode>
+    <lectureslot>8</lectureslot>
+    <tutorialslot>9</tutorialslot>
+    <capacity>9</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Requiring things to run</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>Introduction to AI</modulename>
+    <modulecode>3SFE599</modulecode>
+    <lectureslot>10</lectureslot>
+    <tutorialslot>0</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Artificial Intelligence in computer systems</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>Java Mobile Application Development</modulename>
+    <modulecode>3SFE540</modulecode>
+    <lectureslot>1</lectureslot>
+    <tutorialslot>2</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>3SFE514</corequisites>
+    <moduledescription>Development of Mobile Applications in Java</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>C# .Net Framework Programming</modulename>
+    <modulecode>3SFE541</modulecode>
+    <lectureslot>3</lectureslot>
+    <tutorialslot>4</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>3SFE514</corequisites>
+    <moduledescription>Development of C# programs for Windows based devices</moduledescription>
+    <semester>1</semester>
+  </module>
+  <module>
+    <modulename>Software Engineering Group Project</modulename>
+    <modulecode>3SFE515</modulecode>
+    <lectureslot>0</lectureslot>
+    <tutorialslot>1</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>3SFE514</corequisites>
+    <moduledescription>The group project for the Software Engineering module</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>Software Engineering</modulename>
+    <modulecode>3SFE519</modulecode>
+    <lectureslot>2</lectureslot>
+    <tutorialslot>3</tutorialslot>
+    <capacity>10</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Engineering software</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>Mobile User Interface Development</modulename>
+    <modulecode>3SFE542</modulecode>
+    <lectureslot>4</lectureslot>
+    <tutorialslot>5</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>3SFE540</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Development of mobile user interfaces</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>Interactive Multimedia</modulename>
+    <modulecode>3MTS594</modulecode>
+    <lectureslot>6</lectureslot>
+    <tutorialslot>7</tutorialslot>
+    <capacity>3</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Development of interactive media</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>Concurrent Programming</modulename>
+    <modulecode>3SFE555</modulecode>
+    <lectureslot>8</lectureslot>
+    <tutorialslot>9</tutorialslot>
+    <capacity>4</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Development of computational processes that can be executed in parallel</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>Mobile Gaming</modulename>
+    <modulecode>3SFE557</modulecode>
+    <lectureslot>10</lectureslot>
+    <tutorialslot>0</tutorialslot>
+    <capacity>10</capacity>
+    <prerequisites>none</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Gaming for iPhone, Android and Blackberry</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>Intelligent Systems</modulename>
+    <modulecode>3SFE500</modulecode>
+    <lectureslot>1</lectureslot>
+    <tutorialslot>2</tutorialslot>
+    <capacity>9</capacity>
+    <prerequisites>3SFE599</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>Similar to AI, but more fun.</moduledescription>
+    <semester>2</semester>
+  </module>
+  <module>
+    <modulename>3D Graphics II</modulename>
+    <modulecode>3SFE501</modulecode>
+    <lectureslot>3</lectureslot>
+    <tutorialslot>4</tutorialslot>
+    <capacity>9</capacity>
+    <prerequisites>3SFE508</prerequisites>
+    <corequisites>none</corequisites>
+    <moduledescription>2 of 2 for gaming students</moduledescription>
+    <semester>2</semester>
+  </module>
+</modules>

@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Timetable-v2/ModuleSelection.cs">
+    <Files>
+      <File FileName="Timetable-v2/Module.cs" Line="38" Column="10" />
+      <File FileName="Timetable-v2/ModuleSelection.cs" Line="17" Column="26" />
+      <File FileName="Timetable-v2/Selection.cs" Line="8" Column="5" />
+      <File FileName="Timetable-v2/SelectionSummary.cs" Line="17" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="Timetable-v2" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Timetable_v2" expanded="True">
+              <Node name="Timetable_v2.SelectionSummary" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

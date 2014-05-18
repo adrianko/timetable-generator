@@ -1,0 +1,8 @@
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/obj/x86/Debug/Timetable_v2.ModuleSelection.resources
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/obj/x86/Debug/Timetable_v2.Properties.Resources.resources
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/obj/x86/Debug/Timetable_v2.SelectionSummary.resources
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/bin/Debug/Timetable-v2.exe.mdb
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/bin/Debug/Timetable-v2.exe
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/obj/x86/Debug/Timetable-v2.exe
+/Users/ak/Google Drive/BSc/Year 2/Timetable-v2/Timetable-v2/obj/x86/Debug/Timetable-v2.exe.mdb

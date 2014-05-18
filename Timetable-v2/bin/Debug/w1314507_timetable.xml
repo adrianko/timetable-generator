@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<timetable>
+  <studentname>Adrian Ko</studentname>
+  <studentid>w1314507</studentid>
+  <module>
+    <modulename>Object-Oriented Design</modulename>
+    <modulecode>3SFE514</modulecode>
+    <semester>1</semester>
+    <lectureslot>6</lectureslot>
+    <tutorialslot>7</tutorialslot>
+  </module>
+  <module>
+    <modulename>C# .Net Framework Programming</modulename>
+    <modulecode>3SFE541</modulecode>
+    <semester>1</semester>
+    <lectureslot>3</lectureslot>
+    <tutorialslot>4</tutorialslot>
+  </module>
+  <module>
+    <modulename>Requirements Engineering</modulename>
+    <modulecode>3SFE516</modulecode>
+    <semester>1</semester>
+    <lectureslot>8</lectureslot>
+    <tutorialslot>9</tutorialslot>
+  </module>
+  <module>
+    <modulename>Intelligent Systems</modulename>
+    <modulecode>3SFE500</modulecode>
+    <semester>2</semester>
+    <lectureslot>1</lectureslot>
+    <tutorialslot>2</tutorialslot>
+  </module>
+  <module>
+    <modulename>Introduction to AI</modulename>
+    <modulecode>3SFE599</modulecode>
+    <semester>1</semester>
+    <lectureslot>10</lectureslot>
+    <tutorialslot>0</tutorialslot>
+  </module>
+  <module>
+    <modulename>Mobile User Interface Development</modulename>
+    <modulecode>3SFE542</modulecode>
+    <semester>2</semester>
+    <lectureslot>4</lectureslot>
+    <tutorialslot>5</tutorialslot>
+  </module>
+  <module>
+    <modulename>Java Mobile Application Development</modulename>
+    <modulecode>3SFE540</modulecode>
+    <semester>1</semester>
+    <lectureslot>1</lectureslot>
+    <tutorialslot>2</tutorialslot>
+  </module>
+  <module>
+    <modulename>Interactive Multimedia</modulename>
+    <modulecode>3MTS594</modulecode>
+    <semester>2</semester>
+    <lectureslot>6</lectureslot>
+    <tutorialslot>7</tutorialslot>
+  </module>
+</timetable>

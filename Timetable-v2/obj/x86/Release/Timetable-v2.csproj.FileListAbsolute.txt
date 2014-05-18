@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\bin\Release\Timetable-v2.exe
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\bin\Release\Timetable-v2.pdb
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\Timetable_v2.ModuleSelection.resources
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\Timetable_v2.Properties.Resources.resources
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\Timetable_v2.SelectionSummary.resources
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\Timetable-v2.exe
+E:\Documents\Visual Studio 2010\Timetable-v2\Timetable-v2\obj\x86\Release\Timetable-v2.pdb
